@@ -2,7 +2,7 @@
   "name": "space",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite ./dist/",
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
